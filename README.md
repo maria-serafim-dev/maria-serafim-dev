@@ -7,7 +7,7 @@
  </p>
 </div>
 
-# Estátisticas
+# Estatísticas
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maria-serafim-dev&show_icons=true&theme=dracula)](https://github.com/maria-serafim-dev)
 
